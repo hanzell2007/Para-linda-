@@ -40,11 +40,11 @@ for (let i = 0; i < 100; i++) {
 
 // Create planets
 const planetImages = [
-    'IMG/planet1.PNG',
-    'IMG/planet2.PNG',
-    'IMG/planet3.PNG',
-    'IMG/planet4.PNG',
-    'IMG/planet5.PNG'
+    'IMG/planet1.png',
+    'IMG/planet2.png',
+    'IMG/planet3.png',
+    'IMG/planet4.png',
+    'IMG/planet5.png'
 ];
 
 for (let i = 0; i < planetImages.length; i++) {
